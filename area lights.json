@@ -1,0 +1,548 @@
+{
+  "settings": {
+    "depth": 1
+  },
+  "objects": [
+    {
+      "name": "floor wall",
+      "type": "quad",
+      "translate": [0, 7.5, 12],
+      "scale": [30, 20, 20],
+      "rotate": [-1, 0, 0, 90],
+      "material_property0": [0.5, 0.5, 0.4, 1.0]
+    },
+	
+	
+    
+	
+    
+    {
+      "name": "back wall",
+      "type": "quad",
+      "translate": [5.5, 12, 21.9],
+      "scale": [15, 15, 15],
+      "rotate": [0, 0, 1, 90],
+      "material_property0": [0.6, 0.6, 0.5, 1.0]
+    },
+    {
+      "name": "roof wall",
+      "type": "quad",
+      "translate": [0, 17.5, 12],
+      "scale": [30, 20, 20],
+      "rotate": [1, 0, 0, 90],
+      "material_property0": [0.5, 0.5, 0.4, 1.0]
+    },
+    
+    
+    
+    
+    
+    {
+      "name": "front wall 1",
+      "type": "quad",
+      "translate": [-2, 8.03, 1],
+      "scale": [5, 30, 10],
+      "rotate": [0, 0, 1, 90],
+      "material_property0": [0.6, 0.6, 0.5, 1.0]
+    },
+	{
+      "name": "front wall 2",
+      "type": "quad",
+      "translate": [-2, 15.53, 1],
+      "scale": [5, 30, 10],
+      "rotate": [0, 0, 1, 90],
+      "material_property0": [0.6, 0.6, 0.5, 1.0]
+    },
+	{
+      "name": "front wall 3 (center)",
+      "type": "quad",
+      "translate": [0, 11.03, 1],
+      "scale": [10, 10, 10],
+      "rotate": [0, 0, 1, 90],
+      "material_property0": [0.6, 0.6, 0.5, 1.0]
+    },
+	{
+      "name": "front wall 4 (left)",
+      "type": "quad",
+      "translate": [-14, 11.03, 1],
+      "scale": [7, 7, 7],
+      "rotate": [0, 0, 1, 90],
+      "material_property0": [0.6, 0.6, 0.5, 1.0]
+    },
+    {
+      "name": "front wall 5 (right)",
+      "type": "quad",
+      "translate": [14, 11.03, 1],
+      "scale": [7, 7, 7],
+      "rotate": [0, 0, 1, 90],
+      "material_property0": [0.6, 0.6, 0.5, 1.0]
+    },
+    {
+      "name": "window closing",
+      "type": "quad",
+      "translate": [-2, 12.03, 1],
+      "scale": [5, 30, 10],
+      "rotate": [0, 0, 1, 90],
+      "material_property0": [0.6, 0.6, 0.5, 1.0]
+    },
+    
+    
+    
+    
+    
+    {
+      "name": "left wall 1",
+      "type": "quad",
+      "translate": [0, 12, 7],
+      "scale": [15, 15, 15],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.1, 0.6, 0.2, 1.0]
+    },
+	{
+      "name": "left wall 2",
+      "type": "quad",
+      "translate": [0, 12, 24],
+      "scale": [15, 15, 15],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.1, 0.6, 0.2, 1.0]
+    },
+    {
+      "name": "left wall 3",
+      "type": "quad",
+      "translate": [0, 5, 11],
+      "scale": [15, 15, 15],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.1, 0.6, 0.2, 1.0]
+    },
+    {
+      "name": "left wall 4",
+      "type": "quad",
+      "translate": [0, 22, 11],
+      "scale": [15, 15, 15],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.1, 0.6, 0.2, 1.0]
+    },
+	{
+      "name": "window closing",
+      "type": "quad",
+      "translate": [0, 7, 11],
+      "scale": [15, 15, 15],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.1, 0.6, 0.2, 1.0]
+    },
+    
+    
+    
+    
+    
+    {
+      "name": "right wall 1",
+      "type": "quad",
+      "translate": [11, 12, 7],
+      "scale": [15, 15, 15],
+      "rotate": [0, -1, 0, 90],
+      "material_property0": [0.7, 0.3, 0.2, 1.0]
+    },
+	{
+      "name": "right wall 2",
+      "type": "quad",
+      "translate": [11, 12, 24],
+      "scale": [15, 15, 15],
+      "rotate": [0, -1, 0, 90],
+      "material_property0": [0.7, 0.3, 0.2, 1.0]
+    },
+    {
+      "name": "right wall 3",
+      "type": "quad",
+      "translate": [11, 5, 11],
+      "scale": [15, 15, 15],
+      "rotate": [0, -1, 0, 90],
+      "material_property0": [0.7, 0.3, 0.2, 1.0]
+    },
+    {
+      "name": "right wall 4",
+      "type": "quad",
+      "translate": [11, 22, 11],
+      "scale": [15, 15, 15],
+      "rotate": [0, -1, 0, 90],
+      "material_property0": [0.7, 0.3, 0.2, 1.0]
+    },
+    {
+      "name": "window closing",
+      "type": "quad",
+      "translate": [11, 7, 11],
+      "scale": [15, 15, 15],
+      "rotate": [0, -1, 0, 90],
+      "material_property0": [0.7, 0.3, 0.2, 1.0]
+    },
+    
+	
+    
+	
+    
+    {
+      "name": "window 1 (right-mid-top)",
+      "type": "cube",
+      "translate": [7.73, 12.83, 1],
+      "scale": [0.7, 0.4, 5.98],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.5, 0.3, 0.2, 1.0]
+    },
+    {
+      "name": "window 2 (right-mid-bot)",
+      "type": "cube",
+      "translate": [7.73, 10.73, 1],
+      "scale": [0.7, 0.4, 5.98],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.5, 0.3, 0.2, 1.0]
+    },
+    {
+      "name": "window 3 (right-mid-mid)",
+      "type": "cube",
+      "translate": [7.73, 11.73, 1],
+      "scale": [0.7, 0.4, 5.98],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.5, 0.3, 0.2, 1.0]
+    },
+    {
+      "name": "window 2 (right-vertical-right)",
+      "type": "cube",
+      "translate": [10.45, 11.8, 1],
+      "scale": [0.7, 0.4, 2.5],
+      "rotate": [1, 0, 0, 90],
+      "material_property0": [0.5, 0.3, 0.2, 1.0]
+    },
+    {
+      "name": "window 2 (right-vertical-left)",
+      "type": "cube",
+      "translate": [5.05, 11.8, 1],
+      "scale": [0.7, 0.4, 2.5],
+      "rotate": [1, 0, 0, 90],
+      "material_property0": [0.5, 0.3, 0.2, 1.0]
+    },
+    {
+      "name": "window 2 (right-vertical-mid)",
+      "type": "cube",
+      "translate": [7.7, 11.8, 1],
+      "scale": [0.7, 0.4, 2.5],
+      "rotate": [1, 0, 0, 90],
+      "material_property0": [0.5, 0.3, 0.2, 1.0]
+    },
+    
+    
+    
+    
+    
+    {
+      "name": "sfaira 1 KITRINH",
+      "type": "sphere",
+      "translate": [1.8, 8, 9.5],
+      "radius": 0.5,
+      "material_property0": [1, 1, 0, 1.0]
+    },
+    {
+      "name": "sfaira 2 PORTOKALI",
+      "type": "sphere",
+      "translate": [3.0, 8.5, 8.0],
+      "radius": 1.1,
+      "material_property0": [0.8, 0.4, 0.2, 1.0]
+    },
+    {
+      "name": "sfaira 3 GKRI",
+      "type": "sphere",
+      "translate": [4.0, 8, 11.0],
+      "radius": 0.6,
+      "material_property0": [0.5, 0.5, 0.5, 1.0]
+    },
+    {
+      "name": "sfaira 4 GKRI",
+      "type": "sphere",
+      "translate": [2.2, 8, 12.0],
+      "radius": 0.6,
+      "material_property0": [0.5, 0.5, 0.5, 1.0]
+    },
+    {
+      "name": "sfaira 5 LEUKH",
+      "type": "sphere",
+      "translate": [7.5, 8.5, 8.0],
+      "radius": 1.1,
+      "material_property0": [0.7, 0.7, 0.7, 1.0]
+    },
+    {
+      "name": "sfaira 6 MPLE",
+      "type": "sphere",
+      "translate": [7.5, 10.2, 8.0],
+      "radius": 0.7,
+      "material_property0": [0.5, 0.5, 0.8, 1.0]
+    },
+    {
+      "name": "sfaira 7 GKRI (trapezaki)",
+      "type": "sphere",
+      "translate": [9.4, 9.6, 12.5],
+      "radius": 0.6,
+      "material_property0": [0.5, 0.5, 0.5, 1.0]
+    },
+    {
+      "name": "sfaira 8 Normalized_Blinn-Phong",
+      "type": "sphere",
+      "translate": [7.5, 8, 12.0],
+      "radius": 0.4,
+      "material_property0": [0.0, 0.0, 0.0, 1.0],
+      "material_property1": [0.1, 0.1, 0.1, 0.1]
+    },
+    {
+      "name": "sfaira 9 Cook-Torrance",
+      "type": "sphere",
+      "translate": [3.5, 8, 12.0],
+      "radius": 0.4,
+      "material_property0": [0.0, 0.0, 0.0, 1.0],
+      "material_property1": [0.1, 0.1, 0.1, 0.1]
+    },
+    
+    
+    
+    
+    
+    {
+      "name": "fotistiko deksia 1",
+      "type": "cube",
+      "translate": [11.1, 13.2, 11.7],
+      "scale": [0.1, 11, 0.5],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [1.8, 1.8, 1.8, 0.4]
+    },
+    {
+      "name": "fotistiko deksia 2",
+      "type": "cube",
+      "translate": [11.1, 13.2, 12.4],
+      "scale": [0.1, 11, 0.5],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [1.8, 1.8, 1.8, 0.4]
+    },
+    {
+      "name": "epiplo deksia 3",
+      "type": "cube",
+      "translate": [9.5, 8.2, 12.5],
+      "scale": [0.6, 1.7, 0.6],
+      "rotate": [0, 1, 0, 90],
+      "material_property0": [0.3, 0.5, 0.3, 0.3]
+    },
+	{ 
+      "name": "trapezaki deksia",
+      "type": "cube",
+      "translate": [9.4, 9.02, 12.5],
+      "scale": [2, 0.1, 2],
+      "material_property0": [0.3, 0.7, 0.3, 0.5]
+    },
+    
+    
+    
+    
+    {
+      "name": "kokkino fos",
+      "type": "cube",
+      "translate": [7, 17.0, 7],
+      "scale": [3, 0.1, 3],
+      "material_property0": [0.4, 0.5, 0.5, 2.0]
+    },
+    {
+      "name": "prasino fos",
+      "type": "cube",
+      "translate": [4, 17.0, 7],
+      "scale": [3, 0.1, 3],
+      "material_property0": [0.4, 0.5, 0.5, 2.0]
+    }
+  ]
+}
+ vec4 get_uniform_random () {
+  uint counter = uint(rg_Frame) * (uint(rg_Pixel.x) + uint(rg_Pixel.y) * uint(rg_Canvas.x) + 1u);
+  return rg_Random(counter, rg_Seed.x, rg_Seed.y);
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+void RG_generate_primary_rays (
+  	in  float cameraFOV, in  vec3  cameraPosition, in  vec3  cameraDirection,
+    out vec3  rayOrigin, out vec3  rayDirection) {
+
+  vec4 randoms = get_uniform_random();
+  
+  // compute NDC
+  float sx = ((rg_Pixel.x + randoms.x) / float(rg_Canvas.x));
+  float sy = ((rg_Pixel.y + randoms.y) / float(rg_Canvas.y));
+
+  // convert from [0 1] to [-1 1] 
+  sx = 2.0 * sx - 1.0, sy = 2.0 * sy - 1.0;
+  
+  // compute screen aspect ratio
+  float aspectRatio = float(rg_Canvas.x) / float(rg_Canvas.y);
+
+  // compute the horizontal and vertical axis of the image plane in 3D
+  float tanFOV2 			= tan(radians(cameraFOV) * 0.5);
+  float horizontalTanFOV2   = tanFOV2;
+  float verticalTanFOV2 	= tanFOV2 / aspectRatio;
+
+  vec3  up = vec3(0,1,0);
+  vec3  cx = horizontalTanFOV2 * normalize(cross(cameraDirection, up));
+  vec3  cy = verticalTanFOV2   * normalize(cross(cx, cameraDirection));    
+
+  // compute the ray direction
+  rayDirection = normalize(sx * cx + sy * cy + cameraDirection);
+
+  // set the ray origin
+  rayOrigin    = cameraPosition;
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+void rg_generate () {
+  // setup the camera properties
+  float cameraFOV       = 45.0; // in degrees
+  vec3  cameraPosition  = vec3(5, 12.0, 21.8);
+  vec3  cameraDirection = vec3(0.0, 0.0, -0.8);
+
+  // generate primary rays using a perspective projection
+  vec3  rayOrigin, rayDirection;
+  RG_generate_primary_rays(cameraFOV, cameraPosition, cameraDirection, rayOrigin, rayDirection);
+  
+  // specify ray properties and make it active for intersection
+  rg_RayOrigin    = vec4(rayOrigin   , RG_RAY_ACTIVE_FLAG);
+  rg_RayDirection = vec4(rayDirection, RG_RAY_MAX_DISTANCE);
+  rg_Accumulation = vec4(0,0,0,1);
+  rg_Payload0     = vec4(1.0);	
+}
+ #define n 50.0
+#define lumens 20.0
+#define specularStrength 10.0
+#define lightColor1 vec4 (1, 0, 0, 1)
+#define lightColor2 vec4 (0, 1, 0, 1)
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+vec4 get_uniform_random () {
+  uint counter = uint(rg_Frame) * (uint(rg_Pixel.x) + uint(rg_Pixel.y) * uint(rg_Canvas.x) + 1u);
+  return rg_Random(counter, rg_Seed.x, rg_Seed.y);
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+void RG_compute_radiance () {
+  float f_d = 1.0 / RG_PI;
+  vec4 intensity1 = lumens * f_d * lightColor1;
+  vec4 intensity2 = lumens * f_d * lightColor2;
+  vec3 w_out = -rg_PrevRayDirection;
+  vec4 diffuseColor = rg_MaterialProperty0(rg_MaterialID);
+  
+  
+  // light1 (red) properties
+  vec3 lightPosition1 = vec3(get_uniform_random().x + 6.5, 16.5,
+                             get_uniform_random().z + 6.8);
+  vec3  directionToLight1 = normalize(lightPosition1 - rg_Hitpoint);
+  float distanceToLight1  = distance(lightPosition1, rg_Hitpoint);
+  float lightProduct1     = distanceToLight1 * distanceToLight1;
+  
+  
+  // light2 (green) properties
+  vec3 lightPosition2 = vec3(get_uniform_random().x + 3.5, 16.5,
+                             get_uniform_random().z + 6.8);
+  vec3  directionToLight2 = normalize(lightPosition2 - rg_Hitpoint);
+  float distanceToLight2  = distance(lightPosition2, rg_Hitpoint);
+  float lightProduct2     = distanceToLight2 * distanceToLight2;
+  
+  
+  // dot product between the normal and the light direction
+  float NdotL1 = max(dot(rg_Normal, directionToLight1), 0.0);
+  float NdotL2 = max(dot(rg_Normal, directionToLight2), 0.0);
+  
+  // halfway vector (between the incident and outgoing direction)
+  vec3 h1 = normalize(directionToLight1 + w_out);
+  vec3 h2 = normalize(directionToLight2 + w_out);
+  
+  vec4 specular1 = specularStrength * pow(max(dot(rg_Normal,h1),0.0), n) * lightColor1;
+  vec4 specular2 = specularStrength * pow(max(dot(rg_Normal,h2),0.0), n) * lightColor2;
+  
+  
+  // light 1
+  float dist1    = distance(rg_Hitpoint, lightPosition1);
+  float shadows1 = 
+    rg_TraceOcclusion(rg_Hitpoint+0.001*directionToLight1,directionToLight1,dist1-0.01)?       0.0:1.0;
+  
+  // light 2
+  float dist2    = distance(rg_Hitpoint, lightPosition2);
+  float shadows2 = 
+    rg_TraceOcclusion(rg_Hitpoint+0.001*directionToLight2,directionToLight2,dist2-0.01)?       0.0:1.0;
+  
+  // emit material
+  rg_Accumulation =
+    shadows1 * (intensity1*NdotL1 + specular1)/lightProduct1 * diffuseColor
+    +
+    shadows2 * (intensity2*NdotL2 + specular2)/lightProduct2 * diffuseColor;
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+void rg_hit () {
+  RG_compute_radiance();
+  
+  rg_Accumulation.w = 1.0/float(rg_Frame);
+  rg_RayOrigin      = vec4(0,0,0, RG_RAY_INACTIVE_FLAG);
+  rg_RayDirection   = vec4(1,0,0, RG_RAY_MAX_DISTANCE);
+  rg_Payload0       = vec4(0.0);
+}
+ #define  blue  vec3(0.0, 0.3, 0.7)
+#define  pink  vec3(1.0, 0.7, 0.7)
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+float weight (float angle) {
+  vec2 pixel_coords;
+  
+  if (angle <= 90.0) {
+    	pixel_coords = rg_Pixel;
+  } else if (angle <= 180.0) {
+    	pixel_coords = vec2(rg_Canvas.x - rg_Pixel.x, rg_Pixel.y);
+  } else if (angle <= 270.0) {
+    	pixel_coords = vec2(rg_Canvas.x - rg_Pixel.x, rg_Canvas.y - rg_Pixel.y);
+  } else
+    	pixel_coords = vec2(rg_Pixel.x, rg_Canvas.y - rg_Pixel.y);
+  
+  return sqrt(
+    (pow(pixel_coords.x, 2.0) +
+    (pow(pixel_coords.y, 2.0) - pow(pixel_coords.x, 2.0))*pow(sin(radians(angle)), 2.0))
+    / 
+    (pow(rg_Canvas.x, 2.0) +
+    (pow(rg_Canvas.y, 2.0) - pow(rg_Canvas.x, 2.0)) * pow(sin(radians(angle)), 2.0)));
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+void RG_compute_background_color () {
+  	float angle = -35.0 * rg_Time;  // clockwise
+  
+  	rg_Accumulation = vec4(mix(blue, pink, weight(mod(angle, 360.0))), 0.6);
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+void rg_miss () { 
+  RG_compute_background_color();
+    
+  rg_RayOrigin    = vec4(0,0,0, RG_RAY_INACTIVE_FLAG);
+  rg_RayDirection = vec4(0.0);
+  rg_Payload0     = vec4(0.0);
+}
+ void rg_post_process()
+{
+	vec4 color = rg_ImageFetch2D(rg_AccumulatedImage, ivec2(rg_Pixel));
+	// perform gamma correction
+	rg_PixelColor = vec4(pow(color.rgb, vec3(1.0 / 2.2)), 1.0);
+}
+ 
